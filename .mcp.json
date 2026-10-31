@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "factory-report": {
+      "command": "bun",
+      "args": [
+        "/Users/newfw/Code/raysmond/marshal-factory/mcp/factory-report.ts"
+      ],
+      "env": {
+        "FACTORY_REPORTER": "hook"
+      }
+    }
+  }
+}
