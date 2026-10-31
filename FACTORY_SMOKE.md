@@ -1,0 +1,1 @@
+marshal-factory smoke test
